@@ -1,0 +1,2 @@
+[{"idx":0,"len":11,"after":"(Ingredients): Aqua, Cetearyl "},{"idx":12,"len":12,"after":": Aqua, Cetearyl Alcohol, Dime"}]
+After header: '('
